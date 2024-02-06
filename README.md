@@ -9,3 +9,7 @@ Postup
 -aplikovat CZ patch
 <br/>
 -nakopírovat obsah složky "_CZ-PART2" do hry. Steam klient je pro hraní zbytečný
+
+Chyby
+<br/>
+-hraní v jiném poměru stran než 4:3 ořízne předrenderovaná videa a tím i jeho titulky
