@@ -13,3 +13,5 @@ Postup
 Chyby
 <br/>
 -hraní v jiném poměru stran než 4:3 ořízne předrenderovaná videa a tím i jeho titulky
+<br/>
+-hraní ve 21:9 může způsobit v určitých momentech pády do systému = nemožnost postupu
