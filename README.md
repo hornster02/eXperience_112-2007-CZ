@@ -1,6 +1,6 @@
 Steam (2024-02)
 <br/>
-Velikost 253MB https://drive.google.com/drive/folders/1OWwldOEZ3qkW3SkHhVAlE_lbKvWtqb-a
+Oficiální CZ od TopCD. Velikost 253MB https://drive.google.com/drive/folders/1OWwldOEZ3qkW3SkHhVAlE_lbKvWtqb-a
 
 Postup
 <br/>
